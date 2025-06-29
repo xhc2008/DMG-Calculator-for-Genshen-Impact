@@ -1,2 +1,13 @@
-# DMG-Calculator-for-Genshen-Impact
-This tool calculates per-hit damage values, primarily used for burst damage (aka 'nuke') scenario modeling.
+# 原神伤害计算器
+
+## 简介
+本计算器专为“核爆”提供理论支持
+单个文本框支持加法、减防、乘法运算
+
+## 注意
+1. 由于游戏面板不显示小数点，计算结果与实际伤害可能存在误差
+2. 伤害值越高，这种误差会被放大
+3. 可能存在奇奇怪怪的bug
+
+##用法
+不写了，应该是个人都能看懂……吧？
